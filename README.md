@@ -56,6 +56,7 @@ This is a simple number guessing game where the user tries to guess a randomly g
 
 
 ## Live Demo
+![Click Here to Play](afaisal997.github.io/Guess-The-Number/)
 [Click Here to Play][afaisal997.github.io/Guess-The-Number/]
 
 ## Author
