@@ -57,7 +57,7 @@ This is a simple number guessing game where the user tries to guess a randomly g
 
 ## Live Demo
 
-(Provide a link to a live version of the game if hosted online.)
+afaisal997.github.io/Guess-The-Number/
 
 ## Author
 
